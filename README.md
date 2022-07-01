@@ -1,1 +1,1 @@
-# [Игра в угадывание чисел](https://gumirus.github.io/game
+# [Игра в угадывание чисел](https://gumirus.github.io/game)
